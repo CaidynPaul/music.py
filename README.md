@@ -1,1 +1,2 @@
-# music.py
+## Dependencies
+pygame module

@@ -1,0 +1,16 @@
+{
+    "fileType": ".mp3",
+    "tempo":120,
+    "key":"C Major",
+    "Instrument":{
+        "id":0,
+        "name":"Piano",
+        "path":""
+    },
+    "channel_amount":8,
+    "Drum":{
+        "id":1,
+        "name":"Drum",
+        "path":"Audio.Drumkit/"
+    }
+}
